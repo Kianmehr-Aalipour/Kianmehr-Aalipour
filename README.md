@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kianmehr-Aalipour
 - 👀 I’m a PhD student in Epidemiology 
 - 🌱 I’m currently learning R and Python Programming
-- 💞️ I’m looking to collaborate on Clinical Epidemiology, Environmental Epidemiology topics 
+- 💞️ I’m looking to collaborate on Big DATA related to Clinical and Environmental Epidemiology topics 
 - 📫 Email Address: aalipourez@gmail.com
 - 😄 Pronouns: Kianmehr
 - ⚡ Fun fact: ...
